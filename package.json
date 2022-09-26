@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/ityifan/knex-redis-cache/issues"
   },
-  "homepage": "https://github.com/ityifan/knex-redis-cache#readme"
+  "homepage": "https://github.com/ityifan/knex-redis-cache#readme",
+  "dependencies": {
+    "ioredis": "^5.2.3"
+  }
 }
