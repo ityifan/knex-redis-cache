@@ -1,6 +1,6 @@
 {
   "name": "kenx-redis-cache",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "This is a MySQL and Redis cooperative plug-in library",
   "main": "index.js",
   "scripts": {
