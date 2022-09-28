@@ -21,6 +21,12 @@
   },
   "homepage": "https://github.com/ityifan/knex-redis-cache#readme",
   "dependencies": {
-    "ioredis": "^5.2.3"
+    "ioredis": "^5.2.3",
+    "knex": "^2.3.0",
+    "mysql": "^2.18.1",
+    "mysql2": "^2.3.3"
+  },
+  "devDependencies": {
+    "http": "0.0.1-security"
   }
 }
